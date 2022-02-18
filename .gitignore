@@ -1,7 +1,6 @@
 .vscode
 Traffic_Violations.csv
 traffic-violations-in-usa.zip
-
 logs.log
-
-exported/
+exported
+.ipynb_checkpoints/*
